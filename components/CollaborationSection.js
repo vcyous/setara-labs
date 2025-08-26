@@ -8,8 +8,8 @@ export default function CollaborationSection() {
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
             We build digital solution that serve both your business goals and
-            your users' needs—creating win-win outcomes that drive sustainable
-            growth.
+            your users&apos; needs—creating win-win outcomes that drive
+            sustainable growth.
           </p>
         </div>
 

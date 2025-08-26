@@ -15,8 +15,8 @@ export default function HeroSection() {
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
             We build digital solutions that serve both your business goals and
-            your users' needs— creating win-win outcomes that drive sustainable
-            growth.
+            your users&apos; needs— creating win-win outcomes that drive
+            sustainable growth.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold transition duration-300 transform hover:scale-105">
